@@ -1,5 +1,5 @@
 # Ecommerce-Website-Project
-in this project I made a simple eCommerce website
+in this project I made a simple eCommerce website.
 
 # how to use this project
 1. install xampp
